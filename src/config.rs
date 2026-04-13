@@ -156,7 +156,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["88.99.85.117"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["remote.mastertuning.it"];
 pub const RS_PUB_KEY: &str = "B1zIaPf7rzRfEABFgd6dAYul9cEGqSKqil4mq+2lRmw=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
